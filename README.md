@@ -1,6 +1,9 @@
 # Tic Tac Toe React Game 
 
-# Run Code
+## Installation
+### `npm i`
+
+## Run Code
 ### `npm start`
 
 Runs the app in the development mode.\
