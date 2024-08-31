@@ -1,11 +1,6 @@
-# Getting Started with Create React App
+# Tic Tac Toe React Game 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+# Run Code
 ### `npm start`
 
 Runs the app in the development mode.\
